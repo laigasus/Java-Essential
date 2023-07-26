@@ -1,0 +1,12 @@
+7월 24, 2023 5:13:53 오후 ch11.MyLogger log
+경고: test
+7월 24, 2023 5:13:53 오후 ch11.MyLogger log
+심각: test
+7월 24, 2023 5:16:10 오후 ch11.MyLogger warning
+경고: name must not be null
+7월 24, 2023 5:16:10 오후 ch11.MyLogger warning
+경고: 이름이 너무 길어요
+7월 24, 2023 5:19:44 오후 ch11.MyLogger warning
+경고: name must not be null
+7월 24, 2023 5:19:44 오후 ch11.MyLogger warning
+경고: 이름이 너무 길어요

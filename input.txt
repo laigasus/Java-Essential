@@ -1,0 +1,2 @@
+this reads, but only ascii i guess 12345678;!@#$%#$%&)_()
+not working korean, emoji
